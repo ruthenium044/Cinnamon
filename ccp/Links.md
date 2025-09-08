@@ -1,16 +1,16 @@
 ## Reading
 
-[x] https://en.wikipedia.org/wiki/Translation_unit_(programming) 
+- [x] https://en.wikipedia.org/wiki/Translation_unit_(programming) 
 
-[x] https://en.wikipedia.org/wiki/Functional_programming
+- [x] https://en.wikipedia.org/wiki/Functional_programming
 
-[x] https://en.wikipedia.org/wiki/Template_metaprogramming
+- [x] https://en.wikipedia.org/wiki/Template_metaprogramming
 
-[] https://en.cppreference.com/w/cpp/memory.html
+- [] https://en.cppreference.com/w/cpp/memory.html
 
-[] https://en.cppreference.com/w/cpp/container.html
+- [] https://en.cppreference.com/w/cpp/container.html
 
-[] https://en.cppreference.com/w/cpp/algorithm.html
+- [] https://en.cppreference.com/w/cpp/algorithm.html
 
 
 ## Rendering
