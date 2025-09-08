@@ -1,3 +1,11 @@
+## Reading
+
+https://en.cppreference.com/w/cpp/memory.html
+
+https://en.cppreference.com/w/cpp/container.html
+
+https://en.cppreference.com/w/cpp/algorithm.html
+
 
 ## Rendering
 
