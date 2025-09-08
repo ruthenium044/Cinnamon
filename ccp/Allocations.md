@@ -35,3 +35,17 @@ So what is happening in these delete versions (and the default by the compiler) 
 - The compiler gets the type and calls the destructor
 - It moves on further to remove the tracking (if any) and some other bookkeeping (See malloc/free implementation)
 - Gives memory back to the OS (VirtualFree)
+
+So when you add your custom destructor ~custom_struct() to a class, you essentially allow the meta code to simply call your custom_struct destructor.
+You can think of these things as code for code: 
+
+```CPP
+if constexpr(has_destructor<custom_struct>()) 
+{
+    // Pointer comes from outside:
+    pointer->~custom_struct();
+    // And there also ways to treat it like a static function
+    custom_struct::~custom_struct(pointer);
+}
+```
+
