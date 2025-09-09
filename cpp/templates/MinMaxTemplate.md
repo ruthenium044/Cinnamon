@@ -3,20 +3,25 @@
 Naive approach, requires same type parameters
 
 ```CPP
-#ifndef max
 template<typename T>
 inline T max(T a, T b)
 {
 	return a > b ? a : b;
 }
-#endif // !max
 
-#ifndef min
 template<typename T>
 inline T min(T a, T b)
 {
 	return a > b ? b : a;
 }
-#endif // !min
 ```
 
+Using auto
+
+```CPP
+template<typename T, typename U>
+inline auto max(T a, U b)
+{
+    return a > b ? a : b;
+}
+```
