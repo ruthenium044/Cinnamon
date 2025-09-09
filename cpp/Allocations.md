@@ -49,3 +49,32 @@ if constexpr(has_destructor<custom_struct>())
 }
 ```
 
+## Notes
+
+- Techniques you used to optimise a slow system
+
+Dependency collection -> multithreading with simple locking, because it was good enough
+
+- How would you optimise when a vector is being written to every loop, a large amount of data
+
+Resize to max first
+
+- Render passes
+
+- 3 kinds of buffers (d3d or something? I forgot)
+
+- Rendering barrier. When render targets are being written to one after another, and it's not done so, it flickers
+
+- Different kinds of allocators
+
+Linear allocator used every loop to store data from dynamic objects
+
+- Rendered things can be constant (textures of entities or similar) or dynamic if they're changing. And the frequency would be every frame unlesss special cases
+
+- New in c++
+
+https://cplusplus.com/reference/new/operator%20new/
+
+- Heard of bindless?
+
+Yes
