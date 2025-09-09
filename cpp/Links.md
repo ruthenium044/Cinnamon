@@ -27,6 +27,3 @@ https://imadr.me/pbr/
 
 https://graphics.cs.utah.edu/research/projects/avbd/
 
-## Stuff
-
-https://www.youtube.com/watch?v=CgdKYBqe6QA
