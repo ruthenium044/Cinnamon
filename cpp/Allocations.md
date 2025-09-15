@@ -64,6 +64,8 @@ Just serize it to max on initialise c:
 
 ## Notes
 
+- Heap allocation!
+
 - Render passes
 
 - 3 kinds of buffers (d3d or something? I forgot)
