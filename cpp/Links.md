@@ -12,6 +12,8 @@
 
 - [ ] https://en.cppreference.com/w/cpp/algorithm.html
 
+- [ ] https://en.cppreference.com/w/cpp/named_req/Allocator.html#Allocator_completeness_requirements
+
 
 ## Rendering
 
