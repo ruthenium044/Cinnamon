@@ -50,6 +50,14 @@ void operator__delete__double(double* ptr);
 
 https://cplusplus.com/reference/new/operator%20new/
 
+## Heap and stack
+
+Allocating on heap: new and malloc
+
+Allocating on stack: scope declaration
+
+Global variable declaration: TODO
+
 ## Optimisation with lock and unlock
 
 One of the techniques you used to optimise a slow system
@@ -63,8 +71,6 @@ When a vector is being written to every frame, for temporary storage
 Just serize it to max on initialise c:
 
 ## Notes
-
-- Heap allocation!
 
 - Render passes
 
