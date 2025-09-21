@@ -1,4 +1,6 @@
+## Compiler
 
+The name "compiler" is primarily used for programs that translate source code from a high-level programming language to a low-level programming language (e.g. assembly language, object code, or machine code) to create an executable program
 
 ## Translation unit:
 
