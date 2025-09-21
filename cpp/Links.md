@@ -3,7 +3,7 @@
 - [x] https://en.wikipedia.org/wiki/Translation_unit_(programming) 
 - [x] https://en.wikipedia.org/wiki/Functional_programming
 - [x] https://en.wikipedia.org/wiki/Template_metaprogramming
-- [ ] https://en.wikipedia.org/wiki/Compiler
+- [x] https://en.wikipedia.org/wiki/Compiler
 - [ ] https://en.cppreference.com/w/cpp/memory.html
 - [x] https://en.cppreference.com/w/cpp/container.html
 - [ ] https://en.cppreference.com/w/cpp/algorithm.html
