@@ -16,12 +16,6 @@ Light sunset walk at Playa Fañabé or La Pinta. Or chill at the swimming pools
 
 Breakfast	07:30 – 10:30
 
-Morning snorkel in Playa del Duque (walkable) or El Puertito (short drive, turtle chance!)
-
-More snorkel or trip?
-
-# Day 3
-
 Scenic drive to Teide National Park
 
 Stop at viewpoints: Roques de García, Lava fields, Mirador de La Ruleta, Mirador del Tabonal Negro, Teleférico (Cable car)
@@ -33,6 +27,12 @@ With a cable car ride: Add ~1.5–2 hours more. Takes you to 3,555 m (not the 
 Tickets: ~€39 per adult (book in advance!) May close due to wind/weather
 
 Picnic lunch or dine at Parador de Las Cañadas
+
+# Day 3
+
+Morning snorkel in Playa del Duque (walkable) or El Puertito (short drive, turtle chance!)
+
+More snorkel or trip?
 
 # Day 4
 
