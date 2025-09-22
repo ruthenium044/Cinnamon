@@ -30,9 +30,7 @@ Picnic lunch or dine at Parador de Las Cañadas
 
 # Day 3
 
-Morning snorkel in Playa del Duque (walkable) or El Puertito (short drive, turtle chance!)
-
-Drive to Los Gigantes, snorkel at Playa de Alcalá
+Drive to Los Gigantes
 
 Playa de la Arena (near Los Gigantes) Black sand beach with rocky reef sides
 
@@ -40,9 +38,9 @@ Good variety of reef fish, Good from the beach or rocks
 
 Go when the sea is calm – swell can affect visibility
 
-Visit Charco del Tancón
-
 # Day 4
+
+https://www.uhms.org/images/Recreational-Diving-Medical-Screening-System/forms/Diver_Medical_Participant_Questionnaire_10346_EN_English_2022-02-01.pdf
 
 PADI 08:30 - 14:30
 
@@ -59,6 +57,8 @@ Finish PADI 08:30 - 14:30
 Celebrate with sunset at Kaluna Beach Club or dinner at Cozy Cafe
 
 # Day 7
+
+Morning snorkel in Playa del Duque (walkable) or El Puertito (short drive, turtle chance!)
 
 Morning: Book a snorkelling boat trip from Los Cristianos or Puerto Colón
 Destinations: Montaña Amarilla, Palm-Mar, or Turtle Bay
@@ -116,12 +116,6 @@ Recommended 4-6 hours 42 eur
 ### Optional whale-watching tour (~€30–35/person)
 
 ## North
-
-### Lago Martiánez 10:00 - 18:00 
-
-About 1 1-hour drive, could be combined with a visit to the north
-
-Recommended 2-3 hours 6 eur
 
 ### Loro Parque Zoo
 
