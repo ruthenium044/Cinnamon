@@ -8,7 +8,7 @@
 - [ ] https://en.cppreference.com/w/cpp/algorithm.html
 - [ ] https://en.cppreference.com/w/cpp/named_req/Allocator.html#Allocator_completeness_requirements
 - [x] https://en.cppreference.com/w/cpp/memory.html
-- [ ] https://www.geeksforgeeks.org/c/memory-layout-of-c-program/
+- [x] https://www.geeksforgeeks.org/c/memory-layout-of-c-program/
 
 
 ## Rendering
