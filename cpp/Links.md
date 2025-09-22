@@ -4,10 +4,10 @@
 - [x] https://en.wikipedia.org/wiki/Functional_programming
 - [x] https://en.wikipedia.org/wiki/Template_metaprogramming
 - [x] https://en.wikipedia.org/wiki/Compiler
-- [ ] https://en.cppreference.com/w/cpp/memory.html
 - [x] https://en.cppreference.com/w/cpp/container.html
 - [ ] https://en.cppreference.com/w/cpp/algorithm.html
 - [ ] https://en.cppreference.com/w/cpp/named_req/Allocator.html#Allocator_completeness_requirements
+- [x] https://en.cppreference.com/w/cpp/memory.html
 - [ ] https://www.geeksforgeeks.org/c/memory-layout-of-c-program/
 
 
