@@ -76,13 +76,65 @@ The stack is a region of memory used for local variables and function call manag
 
 https://www.geeksforgeeks.org/c/memory-layout-of-c-program/
 
-## Optimisation with lock and unlock
+## Smart pointers
+
+### Unique
+
+Owns a dynamically allocated object and makes sure it gets deleted when it goes out of scope. Once you hand it off, you no longer own it.
+
+Key points:
+
+- Exclusive ownership → only one unique_ptr can own a resource at a time.
+
+- Automatic cleanup → no need to call delete, it happens automatically.
+
+- Non-copyable → can’t copy a unique_ptr (prevents two owners).
+
+- Movable → you can transfer ownership using std::move().
+
+- Avoids memory leaks and dangling pointers.
+
+### Shared
+
+It allows multiple smart pointers to share ownership of the same resource. The resource stays alive as long as someone still holds the contract.
+
+Key points:
+
+- Shared ownership → multiple shared_ptrs can point to the same object.
+
+- Reference counting → internally keeps track of how many shared_ptrs own the resource.
+
+- Automatic cleanup → when the last shared_ptr goes out of scope, the resource is deleted.
+
+- Copyable & movable → you can copy or move shared_ptrs freely.
+
+- Slightly slower than unique_ptr (because of reference counting overhead).
+
+### Weak pointer
+
+It observes a shared_ptr’s resource without owning it. You can look at the resource, but you don’t keep it alive.
+
+Key points:
+
+- Non-owning → doesn’t affect the resource’s lifetime.
+
+- Avoids cycles → used to break circular references between shared_ptrs.
+
+- Must be locked → to use the resource, convert it back to shared_ptr with .lock().
+
+- Check validity → .expired() tells if the resource has been deleted.
+
+- Lightweight → no heavy reference counting like shared_ptr.
+
+## Some optimisation notes
+
+### Optimisation with lock and unlock
 
 One of the techniques you used to optimise a slow system
 
 If it is not a highly contested resource, it is fine to use. Often works in an editor context
 
-## Optimising vector writing
+### Optimising vector writing
 
 When a vector is being written to every frame, for temporary storage
 
