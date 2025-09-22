@@ -50,13 +50,33 @@ void operator__delete__double(double* ptr);
 
 https://cplusplus.com/reference/new/operator%20new/
 
-## Heap and stack
+## Memory layout
+
+### Text segment
+
+The text segment (also known as code segment) is where the executable code of the program is stored. It contains the compiled machine code of the program's functions and instructions.
+
+### Data segmenr
+
+The data segment stores global and static variables that are created by the programmer.
+
+Can be initialised or uninitialised. Uninitialised variables are automatically initialised to zero at runtime by the operating system.
+
+### Heap
 
 Allocating on heap: new and malloc
 
+Heap segment is where dynamic memory allocation usually takes place. It is managed by functions such as malloc(), realloc(), and free()
+
+### Stack
+
 Allocating on stack: scope declaration
 
+The stack is a region of memory used for local variables and function call management. Each time a function is called, a stack frame is created to store local variables, function parameters, and return addresses. 
+
 Global variable declaration: TODO
+
+https://www.geeksforgeeks.org/c/memory-layout-of-c-program/
 
 ## Optimisation with lock and unlock
 
