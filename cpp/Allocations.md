@@ -1,22 +1,22 @@
 ## Memory layout
 
-### Text segment
+#### Text segment
 
 The text segment (also known as code segment) is where the executable code of the program is stored. It contains the compiled machine code of the program's functions and instructions.
 
-### Data segmenr
+#### Data segment
 
 The data segment stores global and static variables that are created by the programmer.
 
 Can be initialised or uninitialised. Uninitialised variables are automatically initialised to zero at runtime by the operating system.
 
-### Heap
+#### Heap
 
 Allocating on heap: new and malloc
 
 Heap segment is where dynamic memory allocation usually takes place. It is managed by functions such as malloc(), realloc(), and free()
 
-### Stack
+#### Stack
 
 Allocating on stack: scope declaration
 
@@ -77,7 +77,7 @@ https://cplusplus.com/reference/new/operator%20new/
 
 ## Smart pointers
 
-### Unique
+#### Unique
 
 Owns a dynamically allocated object and makes sure it gets deleted when it goes out of scope. Once you hand it off, you no longer own it.
 
@@ -93,7 +93,7 @@ Key points:
 
 - Avoids memory leaks and dangling pointers.
 
-### Shared
+#### Shared
 
 It allows multiple smart pointers to share ownership of the same resource. The resource stays alive as long as someone still holds the contract.
 
@@ -109,7 +109,7 @@ Key points:
 
 - Slightly slower than unique_ptr (because of reference counting overhead).
 
-### Weak pointer
+#### Weak pointer
 
 It observes a shared_ptr’s resource without owning it. You can look at the resource, but you don’t keep it alive.
 
@@ -127,13 +127,13 @@ Key points:
 
 ## Some optimisation notes
 
-### Optimisation with lock and unlock
+#### Optimisation with lock and unlock
 
 One of the techniques you used to optimise a slow system
 
 If it is not a highly contested resource, it is fine to use. Often works in an editor context
 
-### Optimising vector writing
+#### Optimising vector writing
 
 When a vector is being written to every frame, for temporary storage
 
