@@ -6,10 +6,10 @@
 - [x] https://en.wikipedia.org/wiki/Compiler
 - [x] https://en.cppreference.com/w/cpp/container.html
 - [ ] https://en.cppreference.com/w/cpp/algorithm.html
-- [ ] https://en.cppreference.com/w/cpp/named_req/Allocator.html#Allocator_completeness_requirements
+- [x] https://en.cppreference.com/w/cpp/named_req/Allocator.html#Allocator_completeness_requirements
 - [x] https://en.cppreference.com/w/cpp/memory.html
 - [x] https://www.geeksforgeeks.org/c/memory-layout-of-c-program/
-
+- [ ] https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
 
 ## Rendering
 
