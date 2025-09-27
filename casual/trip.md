@@ -1,10 +1,8 @@
-# Day 1
+# Day 1 Nov 4
 
 Arrive 16:00
 
-Get car
-
-Drive to the hotel for about 20 minutes
+Get car. Drive to the hotel for about 20 minutes
 
 Buy snorkel gear (maybe Dive Shop Tenerife is on the way) (Aquarius, Diving Atlantis, Giedre & Enrique)
 
@@ -12,23 +10,42 @@ Get dinner 18:30 – 21:30
 
 Light sunset walk at Playa Fañabé or La Pinta. Or chill at the swimming pools
   
-# Day 2
+# Day 2 Nov 5
 
 Breakfast	07:30 – 10:30
 
-Scenic drive to Teide National Park
+Get up at 7:30. Breakfast at 8:30
 
-Stop at viewpoints: Roques de García, Lava fields, Mirador de La Ruleta, Mirador del Tabonal Negro, Teleférico (Cable car)
+Drive out about 10:00
 
-Optional short hike (~1–2 hrs)
+1hr drive at least. Scenic drive to Teide National Park
 
-With a cable car ride: Add ~1.5–2 hours more. Takes you to 3,555 m (not the summit)
+Stop at viewpoints: Lava fields, Mirador de La Ruleta, Teleférico (Cable car)
 
-Tickets: ~€39 per adult (book in advance!) May close due to wind/weather
+12:10 Teide cable car ride: Add ~1.5–2 hours more. Takes you to 3,555 m (not the summit)
 
-Picnic lunch or dine at Parador de Las Cañadas
+13:30 Drive for lunch at La Orotava (40km, 60min)
 
-# Day 3
+**La Orotava** - a historic town with cobbled streets, colorful mansions, and beautiful courtyards. 
+https://blog.volcanoteide.com/en/what-to-see-la-orotava
+
+**Puerto de la Cruz** https://blog.volcanoteide.com/en/things-to-do-puerto-de-la-cruz
+
+16:00 – Optional Detours (depending on time & energy):
+
+**Mesa del Mar** – coastal village with natural pools and black-sand beach.
+
+**Mirador Cruz del Carmen** – panoramic viewpoint over La Laguna and Teide.
+
+**Parque Rural de Anaga** – ancient laurel forests and dramatic mountain landscapes.
+
+Lowest prio if have time: **Taganana** – remote cliffside village with fresh fish and ocean views.
+
+Drive back at 18:00. Drive from top of the North to hotel is 2hrs
+
+Get dinner 18:30 – 21:30
+
+# Day 3 Nov 6
 
 Drive to Los Gigantes
 
@@ -37,6 +54,8 @@ Playa de la Arena (near Los Gigantes) Black sand beach with rocky reef sides
 Good variety of reef fish, Good from the beach or rocks
 
 Go when the sea is calm – swell can affect visibility
+
+TODO https://blog.volcanoteide.com/en/what-to-see-tenerife-4-days#information-visit-tenerife-first-day
 
 # Day 4
 
