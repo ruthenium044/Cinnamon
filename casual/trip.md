@@ -61,9 +61,11 @@ TODO https://blog.volcanoteide.com/en/what-to-see-tenerife-4-days#information-vi
 
 https://www.uhms.org/images/Recreational-Diving-Medical-Screening-System/forms/Diver_Medical_Participant_Questionnaire_10346_EN_English_2022-02-01.pdf
 
-PADI 08:30 - 14:30
+DSD 08:30 - 14:30
 
 Shore snoreling Las Vistas or Playa del Camisón, Playa Paraiso
+
+Maybe drive somewhere
 
 # Day 5
 
@@ -73,9 +75,11 @@ PADI 08:30 - 14:30
 
 Finish PADI 08:30 - 14:30
 
-Celebrate with sunset at Kaluna Beach Club or dinner at Cozy Cafe
-
 # Day 7
+
+Finish PADI 08:30 - 14:30
+
+Celebrate with sunset at Kaluna Beach Club or dinner at Cozy Cafe
 
 Morning snorkel in Playa del Duque (walkable) or El Puertito (short drive, turtle chance!)
 
