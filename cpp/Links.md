@@ -11,7 +11,7 @@
 - [x] https://www.geeksforgeeks.org/c/memory-layout-of-c-program/
 - [ ] https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
 
-    
+### API stuff
 - [ ] https://ruby0x1.github.io/machinery_blog_archive/post/little-machines-working-together-part-1/index.html
 - [ ] https://ruby0x1.github.io/machinery_blog_archive/post/little-machines-working-together-part-2/index.html
 - [ ] https://ruby0x1.github.io/machinery_blog_archive/post/physical-design/index.html
