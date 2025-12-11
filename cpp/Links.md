@@ -12,12 +12,17 @@
 - [ ] https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
 
 ### API stuff
-- [ ] https://ruby0x1.github.io/machinery_blog_archive/post/little-machines-working-together-part-1/index.html
-- [ ] https://ruby0x1.github.io/machinery_blog_archive/post/little-machines-working-together-part-2/index.html
+- [x] https://ruby0x1.github.io/machinery_blog_archive/post/little-machines-working-together-part-1/index.html
+- [x] https://ruby0x1.github.io/machinery_blog_archive/post/little-machines-working-together-part-2/index.html
 - [ ] https://ruby0x1.github.io/machinery_blog_archive/post/physical-design/index.html
 
-      
 ## Rendering
+
+### Basics
+
+- [ ] https://www.songho.ca/opengl/gl_projectionmatrix.html
+
+### Specifics
 
 - [ ] https://github.com/sigmaco/mantle-docs/blob/main/Mantle_White_Paper.pdf
 
