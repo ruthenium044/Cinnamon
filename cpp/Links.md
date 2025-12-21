@@ -17,6 +17,7 @@
 - [ ] https://ruby0x1.github.io/machinery_blog_archive/post/physical-design/index.html
 
 ## Rendering
+- [ ] https://www.sebastianaaltonen.com/blog/no-graphics-api
 
 ### Basics
 
