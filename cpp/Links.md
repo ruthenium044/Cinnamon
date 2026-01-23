@@ -18,6 +18,20 @@
 
 ## Rendering
 - [ ] https://www.sebastianaaltonen.com/blog/no-graphics-api
+- [ ] https://asawicki.info/
+- [ ] https://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/
+- [ ] https://learn.microsoft.com/en-us/windows/win32/gdiplus/-gdiplus-why-transformation-order-is-significant-use
+- [ ] https://en.wikibooks.org/wiki/Cg_Programming
+
+### Resources
+- [ ] https://developer.download.nvidia.com/cg/index_stdlib.html
+
+### Books
+- [ ] https://www.gamedev.net/tutorials/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698/
+
+### THE MOST IMPORTANT THING
+
+- [ ] https://iquilezles.org/articles/functions/
 
 ### Basics
 
