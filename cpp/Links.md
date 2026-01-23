@@ -26,6 +26,8 @@
 - [ ] https://learn.microsoft.com/en-us/windows/win32/gdiplus/-gdiplus-why-transformation-order-is-significant-use
 - [ ] https://en.wikibooks.org/wiki/Cg_Programming
 
+- [x] https://asawicki.info/articles/graphics_apis_yesterday_today_tomorrow_en.php
+
 ### Resources
 - [ ] https://developer.download.nvidia.com/cg/index_stdlib.html
 
