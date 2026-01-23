@@ -28,6 +28,8 @@
 
 ### Books
 - [ ] https://www.gamedev.net/tutorials/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698/
+- [ ] https://books.google.se/books?id=9nJBAJhTxt8C&pg=PA1147&lpg=PA1147&dq=debug+render+only+diffuse&source=bl&ots=d1PYOgYmvs&sig=ACfU3U0p_UoP2uii_MlTE-hdeLGYrJCLJw&hl=en&sa=X&ved=2ahUKEwiK8p6fkq2EAxXBFBAIHWjUBY04ChDoAXoECAcQAw#v=onepage&q=debug%20render%20only%20diffuse&f=false
+- [ ] 
 
 ### THE MOST IMPORTANT THING
 
