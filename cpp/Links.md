@@ -17,6 +17,9 @@
 - [ ] https://ruby0x1.github.io/machinery_blog_archive/post/physical-design/index.html
 
 ## Rendering
+- [ ] https://gdcvault.com/play/1020791/
+
+  
 - [ ] https://www.sebastianaaltonen.com/blog/no-graphics-api
 - [ ] https://asawicki.info/
 - [ ] https://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/
