@@ -23,10 +23,31 @@ main()
 	}
 }
 ```
+OR
+```
+#include <stdio.h>
 
-//TODO
-Among the others that C provides are \t for tab, \b for backspace, \" for the double quote
-and \\ for the backslash itself. There is a complete list in Section 2.3. 
+#define LOWER 0 /* lower limit of table */
+#define UPPER 300 /* upper limit */
+#define STEP 20 /* step size */ 
+
+main()
+{
+	int fahr;
+	for (fahr = LOWER; fahr <= UPPER; fahr = fahr + STEP)
+	{
+ 		printf("%3d %6.1f\n", fahr, (5.0/9.0)*(fahr-32));
+	}
+}
+```
+
+## Data types
+
+C provides data types: int, float, char, short, long, double. 
+The size of these objects is machine-dependent. There are also arrays, structures and
+unions of these basic types, pointers to them, and functions that return them.
+
+Integer division truncates: any fractional part is discarded. 5/9 would be truncated to zero
 
 ## printf
 
@@ -42,8 +63,8 @@ and \\ for the backslash itself. There is a complete list in Section 2.3.
 * %s for character string
 * %% for itself
 
-C provides data types: int, float, char, short, long, double. 
-The size of these objects is machine-dependent. There are also arrays, structures and
-unions of these basic types, pointers to them, and functions that return them.
+//TODO
+Among the others that C provides are \t for tab, \b for backspace, \" for the double quote
+and \\ for the backslash itself. There is a complete list in Section 2.3. 
 
-Integer division truncates: any fractional part is discarded. 5/9 would be truncated to zero
+
