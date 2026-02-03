@@ -24,7 +24,7 @@ main()
 }
 ```
 OR
-```
+```C
 #include <stdio.h>
 
 #define LOWER 0 /* lower limit of table */
