@@ -1,6 +1,8 @@
+https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf
+
 # Basics 
 
-Compile with command cc hello.c 
+Compile with the command cc hello.c 
 
 Run with a.out 
 
@@ -67,4 +69,19 @@ Integer division truncates: any fractional part is discarded. 5/9 would be trunc
 Among the others that C provides are \t for tab, \b for backspace, \" for the double quote
 and \\ for the backslash itself. There is a complete list in Section 2.3. 
 
+## Char input output
 
+```C
+#include <stdio.h>
+ /* copy input to output; 1st version */
+ main()
+ {
+ int c;
+ c = getchar();
+//while ((c = getchar()) != EOF) 
+	while (c != EOF) {
+		putchar(c);
+		c = getchar();
+	}
+}
+```
